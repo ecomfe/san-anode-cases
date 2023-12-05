@@ -1,0 +1,1 @@
+<ui-inner attr-title="{{text}}" attr-data-t="state:{{text}}"></ui-inner>
